@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=project1_blackjack
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/project1_blackjack
+CND_ARTIFACT_NAME_Debug=project1_blackjack_1
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/project1_blackjack_1
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=project1blackjack.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/project1blackjack.tar
+CND_PACKAGE_NAME_Debug=project1blackjack1.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/project1blackjack1.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=project1_blackjack
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/project1_blackjack
+CND_ARTIFACT_NAME_Release=project1_blackjack_1
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/project1_blackjack_1
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=project1blackjack.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/project1blackjack.tar
+CND_PACKAGE_NAME_Release=project1blackjack1.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/project1blackjack1.tar
 #
 # include compiler specific variables
 #

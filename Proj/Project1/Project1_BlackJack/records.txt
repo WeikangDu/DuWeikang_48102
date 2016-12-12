@@ -1,0 +1,4 @@
+*****round1******
+Computer:	12	5	
+Player  :	11	7	
+results:	Player wins!
